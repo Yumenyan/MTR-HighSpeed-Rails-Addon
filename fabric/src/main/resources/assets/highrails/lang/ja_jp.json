@@ -1,0 +1,9 @@
+{
+	"itemGroup.highrails.highrails_item": "HighSpeed Rails アイテム",
+	"item.highrails.connector_450": "ネザライトのレールコネクター(450km/h,一方通行)",
+	"item.highrails.connector_500": "プルプァのレールコネクター(500km/h,一方通行)",
+	"item.highrails.connector_600": "強化された深層岩のレールコネクター(600km/h,一方通行)",
+	"item.highrails.connector_700": "バリアブロックのレールコネクター(700km/h,一方通行)",
+	"item.highrails.connector_800": "岩盤のレールコネクター(800km/h,一方通行)",
+	"item.highrails.connector_1000": "コマンドブロックのレールコネクター(1000km/h,一方通行)"
+}

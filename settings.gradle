@@ -11,6 +11,5 @@ plugins {
 }
 
 include("fabric")
-include("forge")
 
-rootProject.name = "MTR-Russian-Metro-Addon"
+rootProject.name = "MTR-HighSpeed-Rails-Addon"
