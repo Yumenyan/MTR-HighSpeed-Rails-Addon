@@ -1,4 +1,4 @@
-#MTR HighSpeed Rails Addon
+# MTR HighSpeed Rails Addon
 
 This mod adds a new rail connector to the MTR4.
 (Source code is based on Russian Metro Addon).
